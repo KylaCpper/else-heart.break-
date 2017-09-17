@@ -11,3 +11,6 @@
 中间有个for循环是因为  大于6kb的内容无法翻译，于是逐句翻译
 
 bin里是输出好的文件
+
+使用方法：
+直接吧bin里的english替换translation里的english就行
