@@ -13,4 +13,4 @@
 bin里是输出好的文件
 
 使用方法：
-直接吧bin里的english替换translation里的english就行
+直接吧bin里的english拉到游戏文件里的translation替换就行
